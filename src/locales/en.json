@@ -1,0 +1,6 @@
+{
+  "notConfigured": {
+    "title": "n8n is not configured yet",
+    "text": "Ask your administrator to set the %{flag} flag to the URL of your n8n service."
+  }
+}
