@@ -1,0 +1,9 @@
+{
+  "notConfigured": {
+    "title": "n8n non è ancora configurato",
+    "text": "Chiedi al tuo amministratore di impostare il flag %{flag} sull'URL del tuo servizio n8n."
+  },
+  "embeddedApp": {
+    "title": "Servizio n8n integrato"
+  }
+}
