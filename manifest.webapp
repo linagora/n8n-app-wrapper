@@ -50,9 +50,9 @@
       "verbs": ["GET"]
     },
     "files": {
-      "description": "Required by the cozy-bar to get shortcuts",
+      "description": "Required by the cozy-bar to get shortcuts, and by the Twake Drive n8n nodes to create, change and share files",
       "type": "io.cozy.files",
-      "verbs": ["GET"]
+      "verbs": ["ALL"]
     }
   }
 }
